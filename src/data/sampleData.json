@@ -1,0 +1,37 @@
+{
+    "labels": [
+        "Alice",
+        "Bob",
+        "Charlie",
+        "David",
+        "Emma",
+        "Fiona",
+        "George",
+        "Hannah",
+        "Isha",
+        "Jack",
+        "Karan",
+        "Lily",
+        "Mary",
+        "Nia",
+        "Oliver"
+    ],
+    "label": "Marks Obtained",
+    "data": [
+        88,
+        76,
+        90,
+        65,
+        92,
+        84,
+        73,
+        91,
+        87,
+        78,
+        80,
+        85,
+        92,
+        76,
+        80
+    ]
+}
