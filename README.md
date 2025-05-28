@@ -42,7 +42,7 @@ A responsive, theme-switchable web dashboard built with React that visualizes an
 ## Features
 
 * **Theme Switching (Light/Dark)**
-  -* Toggle between light and dark mode with a single click.
+  - * Toggle between light and dark mode with a single click.
 * Theme is applied using CSS custom properties and a data-theme attribute.
 * Charts update in real-time when the theme is toggled.
 * Component: src/components/ThemeToggle.jsx
