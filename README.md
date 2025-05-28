@@ -48,17 +48,17 @@ A responsive, theme-switchable web dashboard built with React that visualizes an
     * Component: src/components/ThemeToggle.jsx
 
 * **Chart Panel**
-* Visualizes student data in Bar, Pie, and Line formats.
-* Dynamically updates chart data and styling based on theme.
-* Integrated with chartjs-plugin-datalabels for showing exact values.
-* Component: src/components/ChartPanel.jsx
-* Data: src/data/sampleData.json
+    * Visualizes student data in Bar, Pie, and Line formats.
+    * Dynamically updates chart data and styling based on theme.
+    * Integrated with chartjs-plugin-datalabels for showing exact values.
+    * Component: src/components/ChartPanel.jsx
+    * Data: src/data/sampleData.json
 
 * **Table Panel**
-* Displays student data in a tabular layout.
-* Features:
-    - Add a new student record
-    - Delete individual records
-    - Select multiple rows for batch deletion
-* Controlled form for real-time state update and validation.
-* Component: src/components/TablePanel.jsx
+    * Displays student data in a tabular layout.
+    * Features:
+        - Add a new student record
+        - Delete individual records
+        - Select multiple rows for batch deletion
+    * Controlled form for real-time state update and validation.
+    * Component: src/components/TablePanel.jsx
